@@ -36,8 +36,28 @@ const questions = [
       message: 'Enter test instructions?',
       name: 'test',
     },
+    { type: 'list',
+      message: 'Licence?',
+      name: 'license',
+      choices: ['None','Apache License 2.0', 'GNU General Public License v3.0', 'MIT', 'BSD 2','BSD 3','Boost Software'],
+    filter(val){
+      return val
+    }
+    },
+    {
+      type: 'input',
+      message: 'Enter your github username',
+      name: 'github'
+    },
+    {
+      type: 'input',
+      message: 'Enter your E-Mail',
+      name: 'email',
+    },
+
+
   ]
-  console.log(create)
+  
 
 
 // TODO: Create a function to write README file

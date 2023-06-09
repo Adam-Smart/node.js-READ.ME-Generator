@@ -30,7 +30,7 @@ function generateMarkdown(data) {
   ## Installation
   ${data.install}
 
-  ## Contribution
+  ## Contributing
   ${data.contribute}
 
   ## Testing
@@ -39,6 +39,10 @@ function generateMarkdown(data) {
   ## License
   ${data.license}
 
+  ## Questions
+  For any Questions Contact me at:
+  Github: https://github.com/${data.github}
+  E-Mail ${data.email}
 
 `;
 }
