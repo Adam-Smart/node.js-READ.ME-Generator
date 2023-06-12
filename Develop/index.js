@@ -68,22 +68,9 @@ const questions = [
    const mark = create(data)
     fs.writeFile(fileName, mark,(err) =>
     err ? console.log(err) : console.log ('created'))
-    // console.log (data)
+    
     return (data)
   })
 }
  
 writeToFile()
-// .then((data) => {
-//   const fileName = `README.md`;
-
-//   fs.writeFile(fileName,JSON.stringify(data),(err) =>
-//    err ? console.log(err) : console.log('Successfully created README')
-//    )
-// })
-
-// TODO: Create a function to initialize app
-// function init() {}
-
-// //Function call to initialize app
-// init();
