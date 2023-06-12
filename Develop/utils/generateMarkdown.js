@@ -41,6 +41,7 @@ function generateMarkdown(data) {
 
   ## License
   ${data.license}
+  ${renderLicenseBadge(data.license)}
 
   ## Questions
   For any Questions Contact me at:
