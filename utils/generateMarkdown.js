@@ -30,11 +30,12 @@ function generateMarkdown(data) {
 
   ## Table of Content
   - [Project Description](#Description)
+  - [Installation](#Installation)
   - [Usage](#Usage)
   - [Contribution](#Contributing)
-  - [Installation](#Installation)
   - [Testing](#Testing)
   - ${renderLicenseLink(data.license)}
+  - [Questions](#Questions)
 
   ## Installation
   ${data.install}

@@ -17,13 +17,13 @@ const questions = [
     },
     {
       type: 'input',
-      message: 'Enter usage information?',
-      name: 'usage',
+      message: 'Enter installation instructions?',
+      name: 'install',
     },
     {
       type: 'input',
-      message: 'Enter installation instructions?',
-      name: 'install',
+      message: 'Enter usage information?',
+      name: 'usage',
     },
     {
       type: 'input',
