@@ -34,3 +34,7 @@
   Github: https://github.com/Adam-Smart <br />
   E-Mail: adams8632@hotmail.co.uk
 
+
+ ## Links 
+ Repo : https://github.com/Adam-Smart/node.js-READ.ME-Generator.git <br />
+ Video: https://drive.google.com/file/d/1vMKLGalio09VLTXdzmBH4qGfQHhiMMa3/view <br />
