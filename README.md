@@ -29,7 +29,7 @@
    MIT
 
   ## Questions
-  For any Questions Contact me at:
-  Github: https://github.com/Adam-Smart
+  For any Questions Contact me at: <br />
+  Github: https://github.com/Adam-Smart <br />
   E-Mail: adams8632@hotmail.co.uk
 
