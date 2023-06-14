@@ -1,8 +1,8 @@
-# README Gernerator![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# rgrgr![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
 
  ## Description
-  Using node to create a professional looking README
+  rggrgrg
 
   ## Table of Content
   - [Project Description](#Description)
@@ -13,16 +13,16 @@
   - [license](#license)
 
   ## Installation
-  first you will have to install node then on your teminal type npm i inquirer to install
+  rgrgrgr
 
   ## Usage
-  On the terminal type node .index.js then answer the corrisponding questions 
+  grgrgrg
 
   ## Contributing
-  N/A
+  grgrgr
 
   ## Testing
-  npm test
+  grgrgr
 
 
   ## license
@@ -31,5 +31,5 @@
   ## Questions
   For any Questions Contact me at: <br />
   Github: https://github.com/Adam-Smart <br />
-  E-Mail: adams8632@hotmail.co.uk
+  E-Mail: dwdw
 
